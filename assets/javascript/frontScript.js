@@ -46,7 +46,7 @@ $("#searchbox").keyup(function (event) {
 function getJoke() {
 
 
-    var url = "https://api.spoonacular.com/food/jokes/random?&apiKey=349d5f926732476ab8ac52e9787cedc9";
+    var url = "https://api.spoonacular.com/food/jokes/random?&apiKey=9d38a3dff7874883ae7e37ec771e6d34";
     $.ajax({
         url: url,
         method: "GET"
