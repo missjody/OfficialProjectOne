@@ -5,7 +5,7 @@
 var urlStart = "https://api.edamam.com/search?q=";
 var additionalKeys =
 	"%20dessert&to=20&nutrients[SUGAR]=20%2B&enum[crustacean-free]&enum[fish-free]&enum[pork-free]&enum[red-meat-free]&enum[shellfish-free]";
-var idAndKey = "&app_id=2790841b&app_key=f439766755de77a40d2e25c9776f23a1";
+var idAndKey = "&app_id=2790841b&app_key=9d38a3dff7874883ae7e37ec771e6d34";
 var vegan = "&health=vegan";
 var peanutFree = "&health=peanut-free";
 var treeNutFree = "&health=tree-nut-free";
