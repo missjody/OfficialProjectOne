@@ -4,7 +4,7 @@
 
 ## Link To Application
 
-[Dessert Search App](https://hmbudzinski.github.io/OfficialProjectOne/)
+[Dessert Search App](https://missjody.github.io/OfficialProjectOne/)
 
 ## User Story
 
