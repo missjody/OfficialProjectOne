@@ -1,5 +1,9 @@
 # Group Project 1: Dessert Search!
 
+## Updates
+
+As of 4/28 the Edamam API is not functioning as expected. Application does not currently work. 
+
 ### Bri, Hayley, Jody, and Cindy
 
 ## Link To Application
